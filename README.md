@@ -1,3 +1,3 @@
 # 16分乱打難易度表(仮)<br>
 sl0～12または★1～20相当の難易度で、16分乱打の練習になりそうな譜面を集めた難易度表です。<br>
-ここにリンクを貼る/<br>
+https://lets-go-time-hell.github.io/code-stream-table/<br>
